@@ -1,0 +1,5 @@
+div> p Chọn tất cả các phần tử <p> trong đó phần tử mẹ là phần tử <div>
+
+div + p	Selects all <p> elements that are placed immediately after <div> elements
+
+p ~ ul Chọn mọi phần tử <ul> đứng trước phần tử <p>
